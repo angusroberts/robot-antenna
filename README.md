@@ -30,7 +30,7 @@ You will need a coloured LED, a 270 ohm resistor, a paper clip (the sort without
 
 ![](components.png "Components you will need")
 
-**Before you start: electricity revision:**
+**Electricity revision:**
 
 If you are not happy with simple circuits and connecting a battery to a bulb, LED, or buzzer then please ask: we can go over this with you.
 
