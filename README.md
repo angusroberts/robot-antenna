@@ -17,9 +17,9 @@ You will need to set up your Raspberry Pi to take part in this activity. See the
 
 Let’s get hands on with electronics!  This is where the Raspberry Pi comes in handy. You will program a small light called a LED (Light Emitting Diode) to flash.
 
-You will need a coloured LED, a straightened paper clip (non plastic coasted), a 220 ohm resistor and 4 female to female jumper wires.
+You will need a coloured LED, a 270 ohm resistor and 3 female to female jumper wires (NB you do not need the paper clip for what we are doing!).
 
-![](components.png "Components you will need")
+![](components.png "Components you will need (NB you do not need the paper clip for what we are doing!)")
 
 **Activity checklist:**
 
@@ -29,7 +29,7 @@ You will need a coloured LED, a straightened paper clip (non plastic coasted), a
 
 3.	Add another jumper wire the other end of the resistor.
 
-4.	Make another jumper wire and slot one end onto the short leg of the LED, and the other end onto the paper clip (unfolded).
+4.	Add another jumper wire the short leg of the LED.
 
 5.	Find pin 1 and pin 6 on your Raspberry Pi using the diagram below:
 
@@ -39,7 +39,7 @@ You will need a coloured LED, a straightened paper clip (non plastic coasted), a
   The general purpose input ouput (GPIO) pins on the Raspberry Pi speak and listen to the outside world and can be          controlled or programmed.  Each pin his a specific role. To make life easier the pins are numbered for reference.         Pin 1 is for power. Pin 6 is for grounding.
 
 
-6.  Plug the resistor jumper wire into pin 1 on your Raspberry Pi and the paperclip jumper wire into pin 6.
+6.  Plug the resistor jumper wire into pin 1 on your Raspberry Pi and the LED short leg jumper wire into pin 6.
 
 7.  Plug in the micro USB power supply and you should see some text appear on your screen.
 
