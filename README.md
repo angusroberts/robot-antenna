@@ -12,10 +12,9 @@ We hope this worksheet is self contained, but if you need or want more informati
 
 - ***Raspberry Pi.*** http://www.raspberrypi.org
 - ***Getting started with the Pi.*** http://www.raspberrypi.org/learning/teachers-classroom-guide/getting-started-guide
+- ***Getting started with Scratch.*** http://www.raspberrypi.org/resource/getting-started-with-scratch/
 - ***Installing Scratch GPIO on the Pi.*** To do this, you need to open the LX Terminal icon on the desktop, and type in the commands given here: http://cymplecy.github.io/scratch_gpio/
 - ***More details on using Scratch GPIO.*** http://simplesi.net/scratchgpio/scratchgpio-1st-project/
-- ***Getting started with Scratch.*** http://www.raspberrypi.org/resource/getting-started-with-scratch/
-
 
 
 ## Step 0: Setting up your Raspberry Pi
