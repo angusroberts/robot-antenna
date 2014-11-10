@@ -17,9 +17,9 @@ You will need to set up your Raspberry Pi to take part in this activity. See the
 
 Let’s get hands on with electronics!  This is where the Raspberry Pi comes in handy. You will program a small light called a LED (Light Emitting Diode) to flash.
 
-You will need a coloured LED, a 270 ohm resistor and 3 female to female jumper wires (NB you do not need the paper clip for what we are doing!).
+You will need a coloured LED, a 270 ohm resistor a paper clip (the sort without a plastic coating) and 4 female to female jumper wires.
 
-![](components.png "Components you will need (NB you do not need the paper clip for what we are doing!)")
+![](components.png "Components you will need")
 
 **Activity checklist:**
 
@@ -27,11 +27,15 @@ You will need a coloured LED, a 270 ohm resistor and 3 female to female jumper w
 
 2.	Slot the resistor into the other end of the same jumper wire.
 
-3.	Add another jumper wire the other end of the resistor.
+3.	Add another jumper wire to the other end of the resistor.
 
-4.	Add another jumper wire the short leg of the LED.
+4.	Add a third jumper wire to the short leg of the LED.
+	
+5.  Unbend the paper clip and add it to the jumper wire coming from the short leg of the LED.
 
-5.	Find pin 1 and pin 6 on your Raspberry Pi using the diagram below:
+6.  Add the last jumper wire to the other end of the paper clip.
+
+7.	Find pin 1 and pin 6 on your Raspberry Pi using the diagram below:
 
 ![](GPIO1.png "The Raspberry Pi GPIO pins")
 
@@ -39,9 +43,9 @@ You will need a coloured LED, a 270 ohm resistor and 3 female to female jumper w
   The general purpose input ouput (GPIO) pins on the Raspberry Pi speak and listen to the outside world and can be          controlled or programmed.  Each pin his a specific role. To make life easier the pins are numbered for reference.         Pin 1 is for power. Pin 6 is for grounding.
 
 
-6.  Plug the resistor jumper wire into pin 1 on your Raspberry Pi and the LED short leg jumper wire into pin 6.
+8.  Plug the resistor jumper wire into pin 1 on your Raspberry Pi and the paper clip jumper wire into pin 6.
 
-7.  Plug in the micro USB power supply and you should see some text appear on your screen.
+9.  Plug in the micro USB power supply and you should see some text appear on your screen.
 
 **How the light antenna works:**
 
@@ -121,10 +125,23 @@ You will need ScratchGPIO installed (see instructions sheet for installing Scrat
 
     ![](pin11off.png "Turn pin 11 off")
 
+## Step 3: More experiments for the adventurous
 
-## Step 3: Make a cardboard robot
+If you want to be more adventurous, try these experiments:
 
-You will make a cardboard robot and add your light antenna.
+1. Connect another LED in the same way, to pin 12. Both LEDs need to have their short leg connected pin 6 (ground). To do this, you may find it easier to build your circuit using a breadboard, or twist two paper clips together.
+
+2. Connect a buzzer, either instead of a LED, or in addition. You could use pin 13.
+
+3. Write programs to flash and beep in different patterns.
+
+4. Need more? Try the Pibrella add-on board in the kit. This has switches, LEDs, a buzzer, and a motor controller. Ask for details of how to use it.
+
+## Step 4: Make a cardboard robot
+
+Now you can control electronics with you Pi, you can add it to things you make. Below we show a simple carboard robot with a flashing antenna. If you got as far as using more than one LED or a buzzer, you could add these to the robot. Flashing eyes instead of the antenna?
+
+(For a challenge: use 6 LEDs and a buzzer to make a dice that beeps for the partially sighted?)
 
 First you need to make your robot, to do this you need colouring pencils, A4 paper, scissors, glue or sticky tape, a cardboard tube, plasticine or blu tack and a printer.
 
