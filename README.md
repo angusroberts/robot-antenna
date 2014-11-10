@@ -26,7 +26,7 @@ You will need to set up your Raspberry Pi to take part in this activity. See the
 
 Let’s get hands on with electronics!  This is where the Raspberry Pi comes in handy. You will program a small light called a LED (Light Emitting Diode) to flash.
 
-You will need a coloured LED, a 270 ohm resistor a paper clip (the sort without a plastic coating) and 4 female to female jumper wires.
+You will need a coloured LED, a 270 ohm resistor, a paper clip (the sort without a plastic coating) and 4 female to female jumper wires.
 
 ![](components.png "Components you will need")
 
