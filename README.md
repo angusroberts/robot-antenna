@@ -6,12 +6,16 @@ We are going to make a robot that beeps and has a flashing antenna using a Raspb
 
 To use this tutorial you will need a Raspberry Pi, a few electronics components, and a special version of the Scratch programming language, ScratchGPIO, installed on your Raspberry Pi.
 
-## Further information:
+### Further information
 
+We hope this worksheet is self contained, but if you need or want more information, here are some links to get you started:
+
+- ***Raspberry Pi.*** http://www.raspberrypi.org
+- ***Getting started with the Pi.*** http://www.raspberrypi.org/learning/teachers-classroom-guide/getting-started-guide
 - ***Installing Scratch GPIO on the Pi.*** To do this, you need to open the LX Terminal icon on the desktop, and type in the commands given here: http://cymplecy.github.io/scratch_gpio/
 - ***More details on using Scratch GPIO.*** http://simplesi.net/scratchgpio/scratchgpio-1st-project/
 - ***Getting started with Scratch.*** http://www.raspberrypi.org/resource/getting-started-with-scratch/
-- ***Getting started with the Pi.*** http://www.raspberrypi.org/learning/teachers-classroom-guide/getting-started-guide
+
 
 
 ## Step 0: Setting up your Raspberry Pi
