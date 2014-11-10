@@ -19,7 +19,7 @@ We hope this worksheet is self contained, but if you need or want more informati
 
 ## Step 0: Setting up your Raspberry Pi
 
-You will need to set up your Raspberry Pi to take part in this activity. See the [Raspberry Pi Start Guide here](http://www.raspberrypi.org/help/quick-start-guide/) to get you up and running.
+You will need to set up your Raspberry Pi to take part in this activity. See the information already provided to get you up and running, or see http://www.raspberrypi.org/help/quick-start-guide/
 
 
 ## Step 1: Making an antenna for your robot
