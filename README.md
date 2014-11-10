@@ -2,11 +2,9 @@
 
 **Introduction**
 
-We are going to make a robot that beeps and has a flashing antenna using a Raspberry Pi. A Raspberry Pi is a small computer that we can use to create exciting technology. It was created in the UK by the Raspberry Pi Foundation to help young people like you learn how to code.
+We are going to make a robot that beeps and has a flashing antenna using a Raspberry Pi. A Raspberry Pi is a small computer that we can use to create exciting technology. It was created in the UK by the Raspberry Pi Foundation.
 
-This small computer features amazing HD (high-definition) quality video and playback, sports high quality audio and has the ability to play 3D games.
-
-To use this tutorial you will need a Raspberry Pi, a few electronics components, and ScratchGPIO already installed on your SD card. [See here for instructions on how to do this](http://cymplecy.github.io/scratch_gpio/ "Scratch GPIO install instructions")
+To use this tutorial you will need a Raspberry Pi, a few electronics components, and a special version of the Scratch programming language, ScratchGPIO, installed on your Raspberry Pi. [See here for instructions on how to do this](http://cymplecy.github.io/scratch_gpio/ "Scratch GPIO install instructions")
 
 ## Step 0: Setting up your Raspberry Pi
 
@@ -101,7 +99,7 @@ You will need ScratchGPIO installed (see instructions sheet for installing Scrat
 
     ![](play_sound_beep.png "Play Sound block with a sound")
 
-10.	Test that your program so far is working, by clicking on the robot sprite. It should beep!
+10.	Test that your program so far is working, by clicking on the robot sprite. It should beep! On older VGA monitors without speakers, you may need to plug headphones in to the Raspberry Pi to hear the beep.
 
 11.	Save your work so far by clicking on **File** and **Save As**. Name your file **Robot** and click **OK**.
 
